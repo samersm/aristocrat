@@ -23,12 +23,16 @@ Backend Reqiurements
 * The app should avoid dublicated users by their emails
 
 
+https://aristocrat-mrsamer.c9users.io/
+
+New Commands
+
 rails s -b $IP -p $PORT
 
 Ctrl-C    //To stop
 
-https://aristocrat-mrsamer.c9users.io/
-
 rails c
 
 Ctrl-D    //To exit
+
+rails g scaffold <PageName>
