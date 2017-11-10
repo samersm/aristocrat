@@ -1,0 +1,34 @@
+
+Aristocrat - Assassin's Creed Unity
+* Rails Starter App with using of Gems and JQuery JavaScript
+* This paroject is all about wallpapers cumminity
+
+Pages and Layout
+* Make The main view page
+* Make a contact form
+* Make a comments system
+* The wallpaper should have (like and favorite) buttons
+* Make an about page
+
+Backend Reqiurements
+* The App should have three type if users (Admin, Supervisors, Nurmal User)
+* The App should contain rating system for every wallpaper
+* The app should have comment system for every wallpaper
+* The admin should have the ability to create users
+* The admin should have the ability to delete users or content
+* The app should have a category and tags
+* The user should have the ability to like and favorite the wallpaper
+* The user should have the ability to upload wallpaper with the available categories
+* The admin should have the ability to view users messages and reply to them
+* The app should avoid dublicated users by their emails
+
+
+rails s -b $IP -p $PORT
+
+Ctrl-C    //To stop
+
+https://aristocrat-mrsamer.c9users.io/
+
+rails c
+
+Ctrl-D    //To exit
