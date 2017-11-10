@@ -1,8 +1,27 @@
+OverView File 
+** This is the main text file considering it as a planning board for the project
+
 
 Aristocrat - Assassin's Creed Unity
 * Rails Starter App with using of Gems and JQuery JavaScript
 * This paroject is all about wallpapers cumminity
 
+Current Step
+* Add the navbar settings (Login, logout, add items) 
+
+Next Step
+=>
+    * Add icon to the project
+<=
+
+ForWard Step
+=> =>
+    * Add Bootstrap Cards Design to The main page
+<= <=
+
+
+Targets & Missions
+..
 Pages and Layout
 * Make The main view page
 * Make a contact form
@@ -23,6 +42,9 @@ Backend Reqiurements
 * The app should avoid dublicated users by their emails
 
 
+
+Helper:
+
 https://aristocrat-mrsamer.c9users.io/
 
 New Commands
@@ -36,3 +58,6 @@ rails c
 Ctrl-D    //To exit
 
 rails g scaffold <PageName>
+
+git log
+Q   //To quit

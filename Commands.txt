@@ -1,0 +1,10 @@
+** All Commands Used in this Project
+
+
+$ rails g scaffold Wallpaper
+$ rails db:migrates
+Commit..
+
+
+$ 
+Commit..
