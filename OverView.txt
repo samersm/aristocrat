@@ -4,7 +4,8 @@ OverView File
 
 Aristocrat - Assassin's Creed Unity
 * Rails Starter App with using of Gems and JQuery JavaScript
-* This paroject is all about wallpapers cumminity
+* This project is all about wallpapers community
+* The main idea of the project is to view wallpapers from links
 
 Current Step
 * Add the navbar settings (Login, logout, add items) 
@@ -40,6 +41,7 @@ Backend Reqiurements
 * The user should have the ability to upload wallpaper with the available categories
 * The admin should have the ability to view users messages and reply to them
 * The app should avoid dublicated users by their emails
+* The user should have the ability to create and organize his own list
 
 
 
