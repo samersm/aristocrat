@@ -8,11 +8,11 @@ Aristocrat - Assassin's Creed Unity
 * The main idea of the project is to view wallpapers from links
 
 Current Step
-* Add the navbar settings (Login, logout, add items) 
+* Add Devise Gem For register and login users
 
 Next Step
 =>
-    * Add icon to the project
+    * Add Icons To the Navbar
 <=
 
 ForWard Step
