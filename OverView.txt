@@ -12,7 +12,7 @@ Current Step
 
 Next Step
 =>
-    * Add Icons To the Navbar
+    * Add The Main Website Logo
 <=
 
 ForWard Step
@@ -29,6 +29,7 @@ Pages and Layout
 * Make a comments system
 * The wallpaper should have (like and favorite) buttons
 * Make an about page
+* Edit navabar icons styles (Circle border)
 
 Backend Reqiurements
 * The App should have three type if users (Admin, Supervisors, Nurmal User)
@@ -55,11 +56,15 @@ rails s -b $IP -p $PORT
 
 Ctrl-C    //To stop
 
-rails c
+$ rails c
 
 Ctrl-D    //To exit
 
-rails g scaffold <PageName>
+$ rails g scaffold <PageName>
 
-git log
+$ git log
 Q   //To quit
+
+// You can navigate and open any file while you're in the project dir
+// For Example
+$ c9 ../../code/playground.html 
