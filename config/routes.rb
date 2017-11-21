@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'playgrounds/navbar'
+
   get 'playgrounds/playground'
 
   resources :wallpapers

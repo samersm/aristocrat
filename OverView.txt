@@ -8,11 +8,11 @@ Aristocrat - Assassin's Creed Unity
 * The main idea of the project is to view wallpapers from links
 
 Current Step
-* Add Devise Gem For register and login users
+* Start Working With User Auth in Devise gem
 
 Next Step
 =>
-    * Add The Main Website Logo
+    * Clone Relative Rails github project and explore it
 <=
 
 ForWard Step
@@ -29,7 +29,7 @@ Pages and Layout
 * Make a comments system
 * The wallpaper should have (like and favorite) buttons
 * Make an about page
-* Edit navabar icons styles (Circle border)
+* Edit navbar icons styles (Circle border)
 
 Backend Reqiurements
 * The App should have three type if users (Admin, Supervisors, Nurmal User)
