@@ -5,6 +5,13 @@ $ rails g scaffold Wallpaper
 $ rails db:migrates
 Commit..
 
+$ rails g controller playgrounds playground
 
-$ 
+$ rails g controller playgrounds navbar
+
+$ rails g controller playgrounds mainviewdesign -s
+$ rails g controller playgrounds singleviewdesign -s
+Commit..
+
+$
 Commit..

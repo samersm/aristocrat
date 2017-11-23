@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'playgrounds/singleviewdesign'
+
+  get 'playgrounds/mainviewdesign'
+
   get 'playgrounds/navbar'
 
   get 'playgrounds/playground'

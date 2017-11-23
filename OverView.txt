@@ -8,16 +8,17 @@ Aristocrat - Assassin's Creed Unity
 * The main idea of the project is to view wallpapers from links
 
 Current Step
-* Start Working With User Auth in Devise gem
+* Add Bootstrap Cards Design to The main page (Use pure html & bootstrap design for now)
+* Add Single View Page Design
 
 Next Step
 =>
-    * Clone Relative Rails github project and explore it
+    * Start Working With User Auth in Devise gem (The user should only have the ability to like and comment for now)
 <=
 
 ForWard Step
 => =>
-    * Add Bootstrap Cards Design to The main page
+    * ...
 <= <=
 
 
@@ -30,9 +31,12 @@ Pages and Layout
 * The wallpaper should have (like and favorite) buttons
 * Make an about page
 * Edit navbar icons styles (Circle border)
+* Make tags styles in the main page view
+* Make a Profile view styles
 
 Backend Reqiurements
 * The App should have three type if users (Admin, Supervisors, Nurmal User)
+* The admin and supervisors users only ones who have the ability to add wallpapers 
 * The App should contain rating system for every wallpaper
 * The app should have comment system for every wallpaper
 * The admin should have the ability to create users
