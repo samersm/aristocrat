@@ -9,11 +9,13 @@ Aristocrat - Assassin's Creed Unity
 
 Current Step
 * Add Bootstrap Cards Design to The main page (Use pure html & bootstrap design for now)
+* Add CSS Card Design in the mainviewdesign bootstrap page
 * Add Single View Page Design
 
 Next Step
 =>
-    * Start Working With User Auth in Devise gem (The user should only have the ability to like and comment for now)
+    * Start Working With User Auth in Devise gem (The user should only have the ability to favorite and comment for now)
+    * The guest have the ability to like or dislike
 <=
 
 ForWard Step
@@ -47,6 +49,7 @@ Backend Reqiurements
 * The admin should have the ability to view users messages and reply to them
 * The app should avoid dublicated users by their emails
 * The user should have the ability to create and organize his own list
+* Add a permission for upload the wollpaper or use the URL from Unsplash
 
 
 
