@@ -15,3 +15,7 @@ Commit..
 
 $
 Commit..
+
+
+Suggestion:
+$ rails g scaffold Game title:string link:string description:text
